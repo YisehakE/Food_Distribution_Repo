@@ -8,3 +8,10 @@ Group members:
 - Zyan
 
 * This is just a placeholder, we will further update this w/ project details.
+
+## Project ideas
+
+- Webapp
+- App 
+- Extension/Add-on
+- Government OR corporation tooling 
