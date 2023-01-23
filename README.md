@@ -15,3 +15,5 @@ Group members:
 - App 
 - Extension/Add-on
 - Government OR corporation tooling 
+
+*Keep in mind the skillset we all share & don't share
